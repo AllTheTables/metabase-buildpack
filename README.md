@@ -1,4 +1,4 @@
-# The Heroku Buildpack release artifact will no longer be maintained by Metabase, this is a Lopay maintained fork.
+# The Heroku Buildpack release artifact will no longer be maintained by Metabase, this is a AllTheTables maintained fork.
 
 # Updating metabase version
 
